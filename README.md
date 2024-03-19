@@ -28,7 +28,7 @@
 
 ## 📈 WakaTime 주간 통계
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joona0306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joona0306)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
 - **이메일**: your.email@example.com

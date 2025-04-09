@@ -13,7 +13,7 @@
 
 ## 🛠 기술 스택
 - **언어**: JavaScript (ES6+), TypeScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios
+- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios, Zustand
 - **스타일링**: CSS, SCSS, Emotion
 - **툴**: Git, GitHub, Figma, Visual Studio Code
 - **기타**: Responsive Design, RESTful API, GraphQL

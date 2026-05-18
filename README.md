@@ -114,6 +114,6 @@ mindmap
 
 | 구분 | 링크 |
 |---|---|
-| Email | your-email@example.com |
+| Email | joona0306@gmail.com |
 | Portfolio | 준비 중 |
 | GitHub | https://github.com/your-github-id |

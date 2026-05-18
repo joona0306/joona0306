@@ -1,44 +1,31 @@
-# 안녕하세요. UI/UX와 웹디자인을 함께 다루는 디자이너입니다.
+# UI/UX Designer · Web Designer
 
-사용자의 문제를 이해하고, 보기 좋은 화면을 넘어  
-**사용하기 쉬운 인터페이스와 실제 구현 가능한 웹 경험**을 설계하는 것을 목표로 합니다.
+사용자의 흐름을 이해하고,  
+**구현 가능한 웹 경험**을 설계하는 디자이너입니다.
 
-저는 UI/UX 디자인, 웹디자인, 퍼블리싱, 프론트엔드 기초 구현까지 연결하여  
-디자인과 개발 사이의 간극을 줄이는 작업에 관심이 많습니다.
+`UI/UX Design` · `Web Design` · `Figma` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
 ## About Me
 
-- UI/UX 디자인과 웹디자인을 중심으로 학습하고 작업합니다.
-- 사용자의 흐름, 정보 구조, 화면 설계, 시각 디자인을 중요하게 생각합니다.
-- Figma를 활용한 와이어프레임, 프로토타입, 디자인 시스템 제작에 관심이 있습니다.
-- HTML, CSS, JavaScript를 활용해 디자인을 실제 웹 화면으로 구현하는 것을 연습하고 있습니다.
-- 접근성, 반응형 웹, 일관된 디자인 시스템을 고려한 작업을 지향합니다.
+| Area | Keywords |
+|---|---|
+| Design | UI/UX, Web Design, Visual Design |
+| UX | User Flow, IA, Wireframe, Prototype |
+| Frontend | HTML, CSS, JavaScript, Responsive Web |
+| Interest | Design System, Accessibility, Publishing |
 
 ---
 
 ## What I Focus On
 
-### UI/UX Design
-
-사용자가 서비스를 처음 접했을 때도 자연스럽게 이해하고 사용할 수 있도록  
-사용자 흐름, 화면 구조, 버튼 배치, 정보 전달 방식을 고민합니다.
-
-### Web Design
-
-브랜드의 분위기와 서비스 목적에 맞는 시각 디자인을 설계합니다.  
-색상, 타이포그래피, 여백, 레이아웃을 활용해 보기 쉽고 신뢰감 있는 화면을 만드는 데 집중합니다.
-
-### Frontend Publishing
-
-디자인에서 끝나는 것이 아니라 실제 웹으로 구현될 수 있는 구조를 고려합니다.  
-HTML, CSS, JavaScript를 활용해 반응형 화면과 기본 인터랙션을 구현합니다.
-
-### Design System
-
-반복적으로 사용하는 색상, 폰트, 버튼, 카드, 입력창 등의 UI 요소를 정리하여  
-일관성 있는 화면을 만들 수 있는 디자인 시스템에 관심이 있습니다.
+| Focus | Description |
+|---|---|
+| UI/UX Design | 사용자 흐름과 화면 구조 설계 |
+| Web Design | 브랜드에 맞는 웹 인터페이스 디자인 |
+| Frontend Publishing | 디자인을 실제 웹 화면으로 구현 |
+| Design System | 일관성 있는 UI 컴포넌트 관리 |
 
 ---
 
@@ -66,37 +53,24 @@ HTML, CSS, JavaScript를 활용해 반응형 화면과 기본 인터랙션을 �
 
 ## Portfolio Projects
 
-### 01. UI/UX Design Project
+| Project | Type | Main Work |
+|---|---|---|
+| UI/UX Design Project | UX/UI | User Flow, IA, Wireframe, Prototype |
+| Web Design Project | Web Design | Main Page, Sub Page, Visual System |
+| Publishing Project | Frontend | HTML, CSS, JavaScript, Responsive Web |
 
-사용자 조사와 서비스 구조 분석을 바탕으로 화면 흐름을 설계한 프로젝트입니다.
+---
 
-- 사용자 페르소나 정리
-- 사용자 여정 지도 작성
-- IA 구조 설계
-- 와이어프레임 제작
-- Figma 프로토타입 제작
-- 주요 화면 UI 디자인
+## Project Workflow
 
-### 02. Web Design Project
-
-브랜드 이미지와 사용 목적에 맞게 웹사이트의 시각 디자인을 구성한 프로젝트입니다.
-
-- 메인 페이지 디자인
-- 서브 페이지 디자인
-- 컬러 시스템 구성
-- 타이포그래피 설정
-- 반응형 레이아웃 고려
-- 배너 및 콘텐츠 영역 디자인
-
-### 03. Publishing Project
-
-Figma 디자인 시안을 HTML, CSS, JavaScript로 구현한 프로젝트입니다.
-
-- 시맨틱 HTML 구조 작성
-- CSS Flex/Grid 레이아웃 구현
-- 반응형 웹 구현
-- 버튼, 카드, 내비게이션 UI 제작
-- 기본 JavaScript 인터랙션 구현
+```mermaid
+flowchart LR
+    A[UX Research] --> B[IA]
+    B --> C[Wireframe]
+    C --> D[UI Design]
+    D --> E[Prototype]
+    E --> F[Publishing]
+```
 
 ---
 
@@ -111,3 +85,56 @@ flowchart LR
     E --> F[프로토타입]
     F --> G[피드백 반영]
     G --> H[웹 구현 검토]
+```
+
+---
+
+## Design Thinking
+
+```mermaid
+mindmap
+  root((Design))
+    UX
+      User Flow
+      IA
+      Wireframe
+      Prototype
+    UI
+      Layout
+      Color
+      Typography
+      Component
+    Web
+      HTML
+      CSS
+      JavaScript
+      Responsive
+```
+
+---
+
+## Currently Learning
+
+![Design System](https://img.shields.io/badge/Design%20System-Study-7B61FF?style=flat-square)
+![Responsive Web](https://img.shields.io/badge/Responsive%20Web-Study-1572B6?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-Study-2E7D32?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Study-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Basic-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+## Contact
+
+| Channel | Link |
+|---|---|
+| Email | your-email@example.com |
+| Portfolio | 준비 중 |
+| GitHub | https://github.com/your-github-id |
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact)
